@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-- Currently learning rust 
-- Learning more about NestJS
-
 <div display = "flex">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=sooraj1002&theme=transparent&hide_border=true)](https://git.io/streak-stats)
